@@ -1,4 +1,4 @@
-import { AmplifyAuthenticator } from "@aws-amplify/ui-react";
+import { AmplifyAuthenticator } from "@aws-amplify/ui-react-v1";
 import React, { useCallback } from "react";
 import { Auth } from 'aws-amplify';
 import Head from "next/head";
